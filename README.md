@@ -7,11 +7,9 @@ I'm Said Ouddou a Full Stack Web Developer.I Spend most of time coding outstandi
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: said.ouddou@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - 💬 Ask me about ... Anything
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source
-- ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
 
