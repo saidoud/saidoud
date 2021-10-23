@@ -21,6 +21,6 @@ I'm Said Ouddou a Full Stack Web Developer.I Spend most of time coding outstandi
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidoud" />
+<img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidoud" />
 
 </details>
